@@ -1,0 +1,7 @@
+Keypoints: img1 = 1580, img2 = 2382
+Good matches after ratio test: 471
+Inliers after RANSAC: 461 / 471
+Homography matrix:
+[[ 8.36605574e-01  8.35973699e-01 -6.08168780e+01]
+ [-8.35912821e-01  8.35689566e-01  3.30086911e+02]
+ [ 9.92179657e-07 -9.57525404e-07  1.00000000e+00]]
